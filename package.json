@@ -3066,7 +3066,7 @@
         "typescript": "^4.5.4",
         "umd-compat-loader": "^2.1.2",
         "vsce": "^2.6.4",
-        "webpack": "^5.65.0",
+        "webpack": "^5.76.0",
         "webpack-bundle-analyzer": "^4.4.1",
         "webpack-cli": "^4.6.0"
     },
